@@ -13,8 +13,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a mobile-first Easybank Landing Page that is build using HTML, SASS and Javascript.
