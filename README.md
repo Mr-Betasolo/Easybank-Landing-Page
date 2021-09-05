@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Easybank Landing Page](git@github.com:Mr-Betasolo/Easybank-Landing-Page.git)
 
 ### Built with
 
@@ -48,4 +48,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mr-Betasolo)
+- Frontend Mentor - [@Mr-Betasolo](https://www.frontendmentor.io/profile/Mr-Betasolo)
